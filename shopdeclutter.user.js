@@ -5,6 +5,7 @@
 // @description  Cleans shops to no longer show items you are not interested in
 // @author       shiny
 // @match        http://moderneopets.com/shop/*
+// @match        https://www.moderneopets.com/shop/*
 // @icon         https://www.google.com/s2/favicons?domain=moderneopets.com
 // @grant        none
 // ==/UserScript==
